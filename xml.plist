@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <script id="tinyhippos-injected"/>
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>
+              <![CDATA[http://wyoa.99.com/areas/versionupdatefiles/wy/property.ipa]]>
+            </string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>
+              http://wyoa.99.com/Areas/VersionUpdateFiles/logo.png
+            </string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>
+              http://wyoa.99.com/Areas/VersionUpdateFiles/logo@2x.png
+            </string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.nd.app.factory.PropertyCompany</string>
+          <key>bundle-version</key>
+          <string>1.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string>云物业客户端</string>
+          <key>title</key>
+          <string>云物业客户端</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
